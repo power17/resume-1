@@ -2,11 +2,6 @@
 
 <h1 align="center">这是一份由自己设计并开发的简历</h1>
 
-<p align="center">
-  <a target="_blank" href="https://resume.congm.in">https://resume.congm.in</a>
-</p>
-
-
 ## 快速开始
 
 为保护个人隐私，简历正文内容已改为由 ChatGPT 生成文本，不具备真实性，仅做简历模板参考（若有更高质量的文本欢迎发起 PR）
@@ -22,7 +17,6 @@
 ---
 
 **Fork 或借鉴请遵循 [LICENSE](./LICENSE) 并注明出处 [@CONGMIN](https://github.com/cong-min/resume)**
-
 
 [CC-BY-SA-4.0](./LICENSE)
 
